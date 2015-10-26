@@ -1,0 +1,27 @@
+{
+  "name": "purescript-chalk",
+  "homepage": "https://github.com/slamdata/purescript-chalk",
+  "authors": [
+    "Maxim Zimaliev <zimaliev@gmail.com>"
+  ],
+  "description": "PureScript bindings to chalk library",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "PureScript",
+    "chalk"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "purescript-prelude": "~0.1.3",
+    "purescript-console": "~0.1.1",
+    "purescript-eff": "~0.1.1"
+  }
+}
