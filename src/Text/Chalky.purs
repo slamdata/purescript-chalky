@@ -1,4 +1,4 @@
-module Text.Chalk where
+module Text.Chalky where
 
 foreign import reset :: String -> String
 foreign import bold :: String -> String

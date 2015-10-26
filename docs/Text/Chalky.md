@@ -1,4 +1,4 @@
-## Module Text.Chalk
+## Module Text.Chalky
 
 #### `reset`
 

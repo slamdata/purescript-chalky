@@ -1,6 +1,6 @@
 {
-  "name": "purescript-chalk",
-  "homepage": "https://github.com/slamdata/purescript-chalk",
+  "name": "purescript-chalky",
+  "homepage": "https://github.com/slamdata/purescript-chalky",
   "authors": [
     "Maxim Zimaliev <zimaliev@gmail.com>"
   ],

@@ -1,16 +1,16 @@
 {
-  "name": "purescript-chalk",
+  "name": "purescript-chalky",
   "description": "PureScript bindings to chalk library",
   "repository": {
     "type": "git",
-    "url": "https://github.com/slamdata/purescript-chalk.git"
+    "url": "https://github.com/slamdata/purescript-chalky.git"
   },
   "author": "Maxim Zimaliev <zimaliev@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/slamdata/purescript-chalk/issues"
+    "url": "https://github.com/slamdata/purescript-chalky/issues"
   },
-  "homepage": "https://github.com/slamdata/purescript-chalk",
+  "homepage": "https://github.com/slamdata/purescript-chalky",
   "dependencies": {
     "chalk": "^1.1.1",
     "gulp": "^3.9.0",

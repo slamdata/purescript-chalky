@@ -1,2 +1,2 @@
-# purescript-chalk
+# purescript-chalky
 PureScript bindings to chalk library

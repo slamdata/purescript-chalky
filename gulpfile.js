@@ -27,7 +27,7 @@ gulp.task('docs', function() {
     return purescript.pscDocs({
         src: sources,
         docgen: {
-            "Text.Chalk": "docs/Text/Chalk.md"
+            "Text.Chalky": "docs/Text/Chalky.md"
         }
     });
 });

@@ -1,4 +1,4 @@
-// module Text.Chalk
+// module Text.Chalky
 
 var chalk = require("chalk");
 
