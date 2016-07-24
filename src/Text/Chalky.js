@@ -1,5 +1,3 @@
-// module Text.Chalky
-
 var chalk = require("chalk");
 
 exports.reset = chalk.reset;

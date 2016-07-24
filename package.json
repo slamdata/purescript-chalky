@@ -1,20 +1,17 @@
 {
-  "name": "purescript-chalky",
-  "description": "PureScript bindings to chalk library",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/slamdata/purescript-chalky.git"
+  "private": true,
+  "scripts": {
+    "clean": "rimraf output",
+    "build": "pulp build --censor-lib --strict",
+    "test": "pulp test"
   },
-  "author": "Maxim Zimaliev <zimaliev@gmail.com>",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/slamdata/purescript-chalky/issues"
-  },
-  "homepage": "https://github.com/slamdata/purescript-chalky",
   "dependencies": {
-    "chalk": "^1.1.1",
-    "gulp": "^3.9.0",
-    "gulp-purescript": "^0.7.0",
-    "purescript": "^0.7.5-rc.2"
+    "chalk": "^1.1.1"
+  },
+  "devDependencies": {
+    "pulp": "^9.0.1",
+    "purescript": "^0.9.1",
+    "purescript-psa": "^0.3.9",
+    "rimraf": "^2.5.2"
   }
 }
